@@ -1,0 +1,6 @@
+{
+  "name": "YourFlix",
+  "description": "Turn your daily life or your imagination into a realistic video or movie using Veo 3, low-latency Flash-Lite, and high-thinking Gemini Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
